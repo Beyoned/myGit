@@ -1,0 +1,2 @@
+# myGit
+This is my first time to learn git
